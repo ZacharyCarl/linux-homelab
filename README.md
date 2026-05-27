@@ -9,6 +9,8 @@ This repository documents my journey learning Linux system administration, netwo
 - Learn networking and security
 - Host multiplayer game servers
 - Implement cloud storage solution
+- Improve Git and GitHub workflows
+- Learn industry-standard development practices
 - Practice infrastructure documentation
 
 ## Current Hardware
