@@ -53,7 +53,11 @@ This repository documents my journey learning Linux system administration, netwo
 - Installed and enabled OpenSSH server
 - First remote connection established using Linux Mint Desktop
 - Verified remote admin works
-- Verified server survives reboot and remains accessible 
+- Verified server survives reboot and remains accessible
+- Configured SSH key authentication between Linux desktop and homelab server
+- Generated and registered SSH key for server-to-GitHub authentication
+- Verified passwordless SSH access
+- Verified GitHub SSH authentication from the server 
 
 ### Lessons learned
 
@@ -62,6 +66,8 @@ This repository documents my journey learning Linux system administration, netwo
 - How DHCP assigns IP addresses
 - Importance of verifying physical connectivitiy before
   troubleshooting software
+- Using SSH to establish trust between machines
+- How GitHub uses SSH keys for repository access
 
 ### Next Steps
 
