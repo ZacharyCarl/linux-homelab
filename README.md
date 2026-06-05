@@ -20,13 +20,6 @@ This repository documents my journey learning Linux system administration, netwo
 - Linux Mint desktop
 - Steam Deck for additional testing
 
-## Current Progress
-
-- Hosting Valheim server (Desktop)
-- Hosting Core Keeper server (Desktop)
-- Learning Linux terminal basics
-- Researching Ubuntu Server and Proxmox
-
 ## Planned Technologies
 
 - Ubuntu Server
@@ -35,6 +28,9 @@ This repository documents my journey learning Linux system administration, netwo
 - Proxmox
 - UFW Firewall
 - Nginx
+
+
+# Current Progress
 
 ## Day 1 - Ubuntu Server
 
