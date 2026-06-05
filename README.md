@@ -55,6 +55,7 @@ This repository documents my journey learning Linux system administration, netwo
 - Verified remote admin works
 - Verified server survives reboot and remains accessible
 - Configured SSH key authentication between Linux desktop and homelab server
+- Configured SSH key authentication between MacBook and homelab server
 - Generated and registered SSH key for server-to-GitHub authentication
 - Verified passwordless SSH access
 - Verified GitHub SSH authentication from the server 
