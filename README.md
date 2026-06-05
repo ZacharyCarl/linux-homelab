@@ -75,3 +75,32 @@ This repository documents my journey learning Linux system administration, netwo
 - Install Tailscale
 - Migrate gameservers from desktop to server
 
+## Day 2 - Docker Fundamentals and Server Migration
+
+### Objectives
+
+- Develop a fundamental understanding of Docker and learn basic commands
+- Successfully migrate an existing Core Keeper server from my Linux desktop to the homelab
+
+### Completed
+
+- Completed introductory Docker exercises and established a foundational understanding of Docker concepts
+- Successfully transferred the Core Keeper server and save data using `scp`
+- Created a systemd service file and configured the server to start automatically on boot
+
+### Lessons Learned
+
+- Basic Docker architecture: Image → Container → Volume
+- The difference between persistent and disposable components in Docker
+- Fundamentals of Docker port mapping
+- How to use `scp` to securely copy files between Linux systems
+- First experience writing a YAML file and using Docker Compose
+- Basic service management with `systemd` and `systemctl`
+
+### Next Steps
+
+- Understand and begin working with Docker volumes and bind mounts
+- Containerize the Core Keeper server
+- Migrate and containerize the Valheim server
+- Use Docker Compose to manage and launch game servers
+- Configure Tailscale for secure remote access
