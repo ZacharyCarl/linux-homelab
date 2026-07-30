@@ -101,3 +101,39 @@ This repository documents my journey learning Linux system administration, netwo
 - Migrate and containerize the Valheim server
 - Use Docker Compose to manage and launch game servers
 - Configure Tailscale for secure remote access
+
+## Day 3 - Migrating to Proxmox after brief hiatus
+
+### Undocumented Changes
+
+- Created Valheim and Palworld servers using steamcmd
+- Created systemd service files
+
+### Objectives
+
+- Back up existing Ubuntu Server
+- Verify backup integrity
+- Copy backup archive to another machine
+- Create bootable Proxmox USB
+- Install Proxmox VE
+- Configure networking
+- Verify SSH and web interface access
+- Create Ubuntu Server VM
+- Update and install required packages
+- Restore SSH keys
+- Restore game server files and configuration
+- Restore systemd service files
+- Verify servers start successfully
+- Verify server savestates and integrity
+- Confirm external connectivity
+- Create first promox snapshot
+
+### Completed
+
+- Successfully backed up Ubuntu Server using 'tar'
+- Transfered backup to Mac using 'sftp'
+- Successfully installed Proxmox VE
+- Successfully configured networking
+- Confirmed browser access
+- Switched from enterprise repository to no subscription
+- Successfully deployed Ubuntu Server VM
